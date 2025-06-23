@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Microsoft.ILP.UserRepository/1.0.0": {
+        "runtime": {
+          "Microsoft.ILP.UserRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.ILP.UserRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

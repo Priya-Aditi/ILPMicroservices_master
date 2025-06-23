@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Microsoft.ILP.OrderBusiness/1.0.0": {
+        "dependencies": {
+          "Microsoft.ILP.OrderRepository": "1.0.0"
+        },
+        "runtime": {
+          "Microsoft.ILP.OrderBusiness.dll": {}
+        }
+      },
+      "Microsoft.ILP.OrderRepository/1.0.0": {
+        "runtime": {
+          "Microsoft.ILP.OrderRepository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.ILP.OrderBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ILP.OrderRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\bin\Debug\net9.0\Microsoft.ILP.UserRepository.deps.json
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\bin\Debug\net9.0\Microsoft.ILP.UserRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\bin\Debug\net9.0\Microsoft.ILP.UserRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\Microsoft.ILP.UserRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\Microsoft.ILP.UserRepository.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\Microsoft.ILP.UserRepository.AssemblyInfo.cs
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\Microsoft.ILP.UserRepository.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\Microsoft.ILP.UserRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\refint\Microsoft.ILP.UserRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\Microsoft.ILP.UserRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserRepository\obj\Debug\net9.0\ref\Microsoft.ILP.UserRepository.dll

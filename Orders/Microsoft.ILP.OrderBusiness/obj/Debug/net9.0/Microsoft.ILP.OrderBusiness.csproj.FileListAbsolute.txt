@@ -1,0 +1,15 @@
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\bin\Debug\net9.0\Microsoft.ILP.OrderBusiness.deps.json
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\bin\Debug\net9.0\Microsoft.ILP.OrderBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\bin\Debug\net9.0\Microsoft.ILP.OrderBusiness.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\bin\Debug\net9.0\Microsoft.ILP.OrderRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\bin\Debug\net9.0\Microsoft.ILP.OrderRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.csproj.AssemblyReference.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.AssemblyInfo.cs
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsof.40BD91FD.Up2Date
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\refint\Microsoft.ILP.OrderBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\Microsoft.ILP.OrderBusiness.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderBusiness\obj\Debug\net9.0\ref\Microsoft.ILP.OrderBusiness.dll

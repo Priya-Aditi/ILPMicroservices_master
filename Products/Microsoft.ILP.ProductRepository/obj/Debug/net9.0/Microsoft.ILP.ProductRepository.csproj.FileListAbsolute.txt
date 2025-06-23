@@ -1,0 +1,11 @@
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\bin\Debug\net9.0\Microsoft.ILP.ProductRepository.deps.json
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\bin\Debug\net9.0\Microsoft.ILP.ProductRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\bin\Debug\net9.0\Microsoft.ILP.ProductRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\Microsoft.ILP.ProductRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\Microsoft.ILP.ProductRepository.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\Microsoft.ILP.ProductRepository.AssemblyInfo.cs
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\Microsoft.ILP.ProductRepository.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\Microsoft.ILP.ProductRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\refint\Microsoft.ILP.ProductRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\Microsoft.ILP.ProductRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductRepository\obj\Debug\net9.0\ref\Microsoft.ILP.ProductRepository.dll

@@ -1,0 +1,15 @@
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\bin\Debug\net9.0\Microsoft.ILP.UserBusiness.deps.json
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\bin\Debug\net9.0\Microsoft.ILP.UserBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\bin\Debug\net9.0\Microsoft.ILP.UserBusiness.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\bin\Debug\net9.0\Microsoft.ILP.UserRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\bin\Debug\net9.0\Microsoft.ILP.UserRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.csproj.AssemblyReference.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.AssemblyInfo.cs
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsof.6F28778A.Up2Date
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\refint\Microsoft.ILP.UserBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\Microsoft.ILP.UserBusiness.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Users\Microsoft.ILP.UserBusiness\obj\Debug\net9.0\ref\Microsoft.ILP.UserBusiness.dll

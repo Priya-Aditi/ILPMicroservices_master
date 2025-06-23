@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Microsoft.ILP.ProductBusiness/1.0.0": {
+        "dependencies": {
+          "Microsoft.ILP.ProductRepository": "1.0.0"
+        },
+        "runtime": {
+          "Microsoft.ILP.ProductBusiness.dll": {}
+        }
+      },
+      "Microsoft.ILP.ProductRepository/1.0.0": {
+        "runtime": {
+          "Microsoft.ILP.ProductRepository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.ILP.ProductBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ILP.ProductRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\bin\Debug\net9.0\Microsoft.ILP.ProductBusiness.deps.json
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\bin\Debug\net9.0\Microsoft.ILP.ProductBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\bin\Debug\net9.0\Microsoft.ILP.ProductBusiness.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\bin\Debug\net9.0\Microsoft.ILP.ProductRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\bin\Debug\net9.0\Microsoft.ILP.ProductRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.csproj.AssemblyReference.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.AssemblyInfo.cs
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsof.E389E840.Up2Date
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\refint\Microsoft.ILP.ProductBusiness.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\Microsoft.ILP.ProductBusiness.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Products\Microsoft.ILP.ProductBusiness\obj\Debug\net9.0\ref\Microsoft.ILP.ProductBusiness.dll

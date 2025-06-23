@@ -1,0 +1,11 @@
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\bin\Debug\net9.0\Microsoft.ILP.OrderRepository.deps.json
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\bin\Debug\net9.0\Microsoft.ILP.OrderRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\bin\Debug\net9.0\Microsoft.ILP.OrderRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\Microsoft.ILP.OrderRepository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\Microsoft.ILP.OrderRepository.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\Microsoft.ILP.OrderRepository.AssemblyInfo.cs
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\Microsoft.ILP.OrderRepository.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\Microsoft.ILP.OrderRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\refint\Microsoft.ILP.OrderRepository.dll
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\Microsoft.ILP.OrderRepository.pdb
+F:\Project\TCS\dotnet microservices assignment\Microsoft.ILP\Orders\Microsoft.ILP.OrderRepository\obj\Debug\net9.0\ref\Microsoft.ILP.OrderRepository.dll
